@@ -86,5 +86,6 @@ Ans:http://56.228.24.241:30192/
 
 Screenshot of the browser output Ans:
 <img width="1366" height="768" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/684a9073-1aeb-4a60-895d-5ab7e87d1245" />
-
+Screenshot of the Terminal output Ans:
+<img width="1366" height="768" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/3fb90477-45a4-48ce-83b7-7163fd986952" />
 8. Push the README.md file to a Git repository and submit the repository link
