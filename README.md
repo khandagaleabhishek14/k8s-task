@@ -66,3 +66,25 @@ Q19. Which command is used to list all Services in a namespace?
 Q20. Two pods in the same namespace want to communicate.
 What is the recommended Kubernetes way?
 - B. Use Service name
+
+Practical Assignment
+Task:
+You are given an application image that runs a web server.
+Perform the following steps:
+1. Create a Deployment that runs the application with at least 2 pods.
+2. Ensure all pods are created successfully and are in Running state.
+3. Create a NodePort Service to expose the application.
+4. Access the application from a browser using:
+http://
+5. Verify that the application output is visible in the browser.
+6. Take a screenshot of the browser output.
+7. Create a README.md file and add:
+Deployment name Ans:Deployment.yml #Deployment
+Service type used Ans: svc.yml #nodeport
+URL used to access the application
+Ans:http://56.228.24.241:30192/
+
+Screenshot of the browser output Ans:
+<img width="1366" height="768" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/684a9073-1aeb-4a60-895d-5ab7e87d1245" />
+
+8. Push the README.md file to a Git repository and submit the repository link
